@@ -17,8 +17,14 @@ Project scope prevents scope creep and aligns stakeholders. WBS breaks work into
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 A detailed schedule improves efficiency and accountability. Gantt charts visualize tasks, dependencies, and timelines.
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+My software addresses collaboration inefficiencies and integrates Christian resources. It helps users streamline communication while deepening faith.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
-## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+A well-defined problem ensures targeted solutions, reducing wasted effort and improving user satisfaction
+## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?\
+A collaboration platform combining virtual meetings with integrated Christian resources for seamless communication and faith-based engagement.
 ## 11. What are the main features or functionalities that make your software stand out?
+Unique features: Bible integration, Hebrew word dictionary, Bible study classes, and corporate collaboration tools.
 ## 12. What data is available regarding the market size and growth potential for your software?
+Market data on corporate and faith-based digital platforms shows growth in remote work tools and Christian education demand.
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding trends helps refine features, target the right audience, and ensure market relevance.
